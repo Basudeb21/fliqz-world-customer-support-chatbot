@@ -1,1 +1,1 @@
-# fliqz-world-customer-support-chatbo
+# fliqz-world-customer-support-chatbot
