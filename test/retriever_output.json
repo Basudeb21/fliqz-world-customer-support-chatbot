@@ -1,0 +1,66 @@
+{
+    "ids": [
+        [
+            "70",
+            "73",
+            "11",
+            "21",
+            "139"
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Question: How often are creator payouts processed?\n\nAnswer: Weekly, once your earnings reach the minimum threshold.",
+            "Question: When do creators get paid?\n\nAnswer: Payouts are processed weekly once your account balance reaches the minimum payout threshold.",
+            "Question: How are payouts processed?\n\nAnswer: We process payouts weekly via secure third-party providers. You can track earnings and set payout preferences in your dashboard.",
+            "Question: How are payouts handled?\n\nAnswer: Payouts are processed weekly to your chosen payment method, subject to applicable fees.",
+            "Question: FAQ - Creators Category Page\n\nAnswer: This is the FAQ page specifically for creators, providing comprehensive answers to common questions about content creation, monetization, and platform management. The page features: Page title 'Creators' with expandable accordion-style FAQ sections covering 13 key topics including: How to become a creator and verification process, Earnings maximization strategies and promotion tips, Payout processing and payment methods, Content restrictions and guidelines, Supported file types for uploads, Profile promotion and marketing strategies, Fan tier setup and subscription management, Dispute resolution with fans, Platform fees and earnings structure, Content protection and copyright reporting, Content creation guidelines and allowed formats, Payout schedules and payment processing, Content compliance and legal requirements. Each question expands to show detailed answers with practical guidance for creators. Related topics section with links to: Payments & Billing, Getting Started, Fans FAQ. The main navigation sidebar remains with user profile and standard navigation links including Home, Messages, Streams, Bookmarks, Lists, Referrals, Subscriptions, My Profile, and More. Action buttons for 'Become a Creator' and 'New Post' are available in the sidebar."
+        ]
+    ],
+    "uris": null,
+    "included": [
+        "metadatas",
+        "documents",
+        "distances"
+    ],
+    "data": null,
+    "metadatas": [
+        [
+            {
+                "url": "NULL",
+                "question": "How often are creator payouts processed?",
+                "faq_id": 70
+            },
+            {
+                "question": "When do creators get paid?",
+                "faq_id": 73,
+                "url": "NULL"
+            },
+            {
+                "faq_id": 11,
+                "url": "NULL",
+                "question": "How are payouts processed?"
+            },
+            {
+                "url": "NULL",
+                "faq_id": 21,
+                "question": "How are payouts handled?"
+            },
+            {
+                "url": "https://beta.fliqzworld.com/faq/:faq_id",
+                "faq_id": 139,
+                "question": "FAQ - Creators Category Page"
+            }
+        ]
+    ],
+    "distances": [
+        [
+            0.3379046320915222,
+            0.4012402892112732,
+            0.6164987087249756,
+            0.6169054508209229,
+            0.7967275381088257
+        ]
+    ]
+}
